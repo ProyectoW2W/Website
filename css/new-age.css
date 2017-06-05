@@ -382,12 +382,10 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+
 }
 .text-primary {
-  color: #fdcc52;
+  color: #1E9377;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
